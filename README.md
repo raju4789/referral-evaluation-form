@@ -1,8 +1,7 @@
 # AI-Powered Referral Evaluation Tool 🔍✨
 
-**A personal project to streamline candidate referrals for [Your Company Name]**
-
-![Project Screenshot](./screenshot.png)
+**A personal project to streamline candidate referrals for my company**
+<img width="805" alt="Screenshot 2568-05-05 at 14 01 24" src="https://github.com/user-attachments/assets/2b82ad65-9e01-4ed3-8d0e-a079e73f137b" />
 
 ## 🌟 Overview
 
