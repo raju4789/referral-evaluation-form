@@ -50,8 +50,8 @@ services:
       - DB_USER=root
       - DB_PASSWORD=admin@2025
       - DB_NAME=referral_db
-      - OPENAI_API_KEY=sk-ssot-hk-firefly-pii-svc
-      - OPENAI_API_BASE=https://openai-proxy.agoda.is/v1
+      - OPENAI_API_KEY={Add your OpenAI API key here}
+      - OPENAI_API_BASE={Add your OpenAI API base URL here}
     depends_on:
       mysql:
         condition: service_healthy
