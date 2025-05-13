@@ -27,14 +27,13 @@ This AI-powered tool helps me evaluate and refer potential candidates to my comp
 - TypeScript for type safety
 
 **AI/ML**:
-- [Specify if you're using any AI APIs or libraries]
+- Chat GPT 
 
 **Database**:
 - MySQL for persistent data storage
 
 **Infrastructure**:
 - Docker for containerization
-- [Add any other relevant technologies]
 
 ## 🏁 Getting Started
 
